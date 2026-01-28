@@ -7,8 +7,6 @@
   🕶️ Dev apaixonado por código, automação e ideias insanas
 </h3>
 
----
-
 ## 🌐 Social
 
 <p align="center">
@@ -19,8 +17,6 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
----
 
 ## ⚙️ Tecnologias
 
@@ -38,9 +34,6 @@
 
 </div>
 
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -48,15 +41,21 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobiced&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
----
-
 ## 🐍 Snake dos commits
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cobiced/cobiced/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 
----
+
+
+<!-- Visit Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
 
 ## ✨ Frase final
 
