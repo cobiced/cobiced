@@ -7,22 +7,25 @@
   🕶️ Dev apaixonado por código, automação e ideias insanas
 </h3>
 
+---
+
 ## 🌐 Social
 
 <p align="center">
   <a href="https://instagram.com/cobicedz">
     <img src="https://img.shields.io/badge/Instagram-7f3fbf?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.gg/users/919656964399693924">
+  <a href="https://discord.com/users/919656964399693924">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+
+---
 
 ## ⚙️ Tecnologias
 
 <div align="center">
 
-<!-- Linguagens principais -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -34,6 +37,8 @@
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -41,26 +46,25 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobiced&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
-## 🐍 Snake dos commits
+---
 
-<!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div>
-
-
-
-<!-- Visit Counter -->
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
-
-## ✨ Frase final
+## 🐍 Snake
 
 <p align="center">
-  <i>"Código não é só lógica, é estilo."</i> 💜
+  <img src="https://raw.githubusercontent.com/cobiced/cobiced/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<!-- Visit Counter -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=cobiced&icon=10&color=6" />
+</p>
+
+---
+
+<p align="center">
+  <i>"I'm Brazilian and yes, I love Neymar."</i> 💜
 </p>
 
 <!-- Footer -->
