@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  🕶️ Dev apaixonado por código, automação e ideias insanas
+  🕶️ A developer passionate about code, automation, and crazy ideas.
 </h3>
 
 ---
