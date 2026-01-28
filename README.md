@@ -9,22 +9,39 @@
 
 ---
 
-## 🌐 Redes
+## 🌐 Social
 
 <p align="center">
   <a href="https://instagram.com/cobicedz">
     <img src="https://img.shields.io/badge/Instagram-7f3fbf?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://discord.gg/SEU_DISCORD">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## ⚙️ Tecnologias
+## ⚙️ Tecnologias & Tech Stack ⚡
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
+<div align="center">
+
+<!-- Linguagens principais -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<br/><br/>
+
+<!-- Stack / Ferramentas -->
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</div>
+
 
 ---
 
