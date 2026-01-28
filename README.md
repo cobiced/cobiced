@@ -50,19 +50,10 @@
 
 ## 🐍 Snake
 
-<!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/cobiced/cobiced/blob/output/github-snake-dark.svg)
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cobiced/cobiced/output/github-snake-dark.svg" />
+</p>
 
-
-
-<!-- Visit Counter -->
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=cobiced&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
 ---
 
 <p align="center">
