@@ -9,30 +9,21 @@
 
 ---
 
-## 🧠 Sobre mim
-
-- 👤 Nome: **Loney**
-- 💻 Linguagens principais: **Python & JavaScript**
-- 🚀 Curto criar coisas úteis, automatizar tudo e quebrar limites
-- 🎨 Estilo: **dark / roxo / clean**
-- 📍 Brasil 🇧🇷
-
----
-
 ## 🌐 Redes
 
 <p align="center">
-  <a href="https://instagram.com/SEU_INSTAGRAM_AQUI">
+  <a href="https://instagram.com/cobicedz">
     <img src="https://img.shields.io/badge/Instagram-7f3fbf?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ⚙️ Tecnologias que uso
+## ⚙️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,git&theme=dark" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ---
@@ -40,7 +31,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cobiced&show_icons=true&theme=midnight-purple&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
@@ -49,7 +40,7 @@
 ## 🐍 Snake dos commits
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/cobiced/cobiced/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
