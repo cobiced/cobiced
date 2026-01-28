@@ -53,7 +53,7 @@
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/Cobicedz/Cobicedz/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/cobiced/cobiced/blob/output/github-snake-dark.svg)
 </div>
 
 
@@ -61,7 +61,7 @@
 <!-- Visit Counter -->
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=cobicedz&icon=10&color=6)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=cobiced&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
 ---
 
